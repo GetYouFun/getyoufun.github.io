@@ -5,7 +5,8 @@
       <i class="fas fa-circle fa-stack-2x"></i>
       <i class="fas fa-graduation-cap fa-stack-1x fa-inverse"></i>
     </span>
-    {{ certifications.title }}
+    <div><a href="{{ site.baseurl }}/assets/{{ certifications.fileurl }}" target="_blank">{{ certifications.title }}</a>
+    </div>
   </h2>
 
   {% for certifications in certifications.list %}
@@ -27,12 +28,8 @@
         </div>
         {% if certifications.credentialurl %}
         <div class="cert-url">
-          <a
-            href="//{{ certifications.credentialurl }}"
-            target="_blank"
-            rel="noreferrer nofollow noopener"
-            >{{ certifications.credentialname }}</a
-          >
+          <a href="//{{ certifications.credentialurl }}" target="_blank" rel="noreferrer nofollow noopener">{{
+            certifications.credentialname }}</a>
         </div>
         {% endif %}
       </div>
