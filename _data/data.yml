@@ -42,18 +42,6 @@ sidebar:
         - idiom: Russian
           level: Native
 
-    interests:
-      title: Interests
-      info:
-        - item: Programing
-          link:
-
-        - item: Gaming
-          link:
-
-        - item: Anime
-          link:
-
 career-profile:
     title: Summary
     summary: |
