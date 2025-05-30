@@ -139,7 +139,7 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: Microsoft Certified: Azure Fundamentals (AZ-900)
+        - name: "Microsoft Certified: Azure Fundamentals (AZ-900)"
           start: Apr 17, 2025
           end: Present
           organization: Microsoft
