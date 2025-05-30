@@ -16,7 +16,7 @@
           {% if certifications.fileurl %}
           <a href="{{ site.baseurl }}/assets/{{ certifications.fileurl }}" target="_blank">{{certifications.name }}</a>
           {% else %}
-          <a href="{{ site.baseurl }}/assets/{{ certifications.credentialurl }}" target="_blank">{{certifications.name }}</a>
+          <a href="{{ certifications.credentialurl }}" target="_blank">{{certifications.name }}</a>
           {% endif %}
         </h3>
         <div class="time">
