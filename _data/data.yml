@@ -17,7 +17,7 @@ sidebar:
     phone: 
     timezone:  Ukraine/Kyiv Timezone
     citizenship:
-    website: getufun.github.io #do not add http://
+    website:  #do not add http://
     linkedin: getyoufun
     xing: 
     github: GetYouFun
@@ -58,11 +58,10 @@ career-profile:
 skills:
     title: Skills 
     summary: |
-      git, SOLID, .NET, ASP.NET, ASP.NET MVC, Entity Framework,
-      Sitecore Content Editor, Sitecore Experience Editor,
-      Sitecore Experience Manager, Sitecore Experience Platform,
-      Sitecore Helix, Sitecore PowerShell, Sitecore Serialization,
-      WPF 
+      .NET, ASP.NET, ASP.NET MVC, Entity Framework, Sitecore Content Editor, 
+      Sitecore Experience Editor, Sitecore Experience Manager, 
+      Sitecore Experience Platform, Sitecore Helix, Sitecore PowerShell, 
+      Sitecore Serialization, SOLID, git, WPF
 
 education:
     title: Education
