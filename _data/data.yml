@@ -20,12 +20,12 @@ sidebar:
     website: getufun.github.io #do not add http://
     linkedin: getyoufun
     xing: 
-    github: GetuFun
-    telegram: GetYouFun # add your nickname without '@' sign
+    github: GetYouFun
+    telegram:
     gitlab:
     bitbucket:
     twitter: 
-    stack-overflow: 213823/getyoufun # Number/Username, e.g. 123456/alandoe
+    stack-overflow:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
     pdf: 
@@ -57,10 +57,15 @@ sidebar:
 career-profile:
     title: Summary
     summary: |
-      I am a Full-Stack Software Developer with nearly 2 years of experience
-      in implementing, and maintaining .Net Sitecore application.
-      My objective is to utilize my technical expertise, problem-solving skills, 
-      and contribute to the growth and success of the project.      
+      .NET Developer specializing in Sitecore CMS and Content Hub. Skilled in Sitecore content management, feature development, and bug resolution. 
+      Experienced in:
+      - Sitecore CMS
+      - Sitecore Content Hub
+      - .NET Framework, C#
+      - Entity Framework
+      - Databases: MSSQL, MongoDB
+      - OOP & SOLID Principles
+      - Unit Testing
 
 skills:
     title: Skills 
@@ -69,7 +74,7 @@ skills:
       Sitecore Content Editor, Sitecore Experience Editor,
       Sitecore Experience Manager, Sitecore Experience Platform,
       Sitecore Helix, Sitecore PowerShell, Sitecore Serialization,
-      .NET HttpClient, Scrum, Kanban
+      WPF 
 
 education:
     title: Education
@@ -90,11 +95,19 @@ experiences:
         time: 2021 - Present
         company: EPAM
         details: |
-          Worked on 4 different projects.
+          Worked on 7 different projects.
           Participated in various activities as a member of the developer team.
-          Estimated and prioritized  tasks.
-          Developed code.
-          Built and deployed development scripts.
+          Estimated and prioritized tasks.
+          Designed MSSQL database.
+          Developed login and register logic with custom roles.
+          Developed admin panel with CRUD operations for admins.
+          Developed unit tests for services.
+          Implemented Auto-generation of models for sitecore templates.
+          Created SOAP client.
+          Provided code review.
+
+          Tools and Technologies:
+          Sitecore, LINQ, GraphQL, C#, ASP.NET, Visual Studio, Sitecore PowerShell, Postman, Jira, JetBrains Rider, Git, Redis, Microsoft SQL Server, ReactJS, Node.js, ASP.NET Web API, ASP.NET MVC
       - role: System Administrator
         time: 2019 - 2019 
         company: Krivorozhgaz
@@ -126,7 +139,29 @@ experiences:
 certifications:
       title: Certifications
       list:
-        - name: Sitecore 10 .NET Developer Certification Exam
+        - name: Microsoft Certified: Azure Fundamentals (AZ-900)
+          start: Apr 17, 2025
+          end: Present
+          organization: Microsoft
+          credentialid: 
+          credentialurl: https://learn.microsoft.com/en-us/users/oleksandrkorenko-9658/credentials/efdabeb8e8247f3b
+          credentialname:
+          fileurl:
+          details: |
+            Certificate is to certify successfull pass the Azure Fundamentals (AZ-900) Certification Exam.
+
+        - name: Sitecore Content Hub Developer
+          start: Feb 7, 2024
+          end: Present
+          organization: Sitecore
+          credentialid: 
+          credentialurl:
+          credentialname:
+          fileurl: Sitecore Content Hub.pdf
+          details: |
+            Certificate is to certify successfull pass the Content Hub Developer Certification Exam.
+
+        - name: Sitecore 10 .NET Developer
           start: June 13, 2023
           end: Present
           organization: Sitecore
@@ -136,96 +171,5 @@ certifications:
           fileurl: Sitecore.pdf
           details: |
             Certificate is to certify successfull pass the Sitecore 10 .NET Developer Certification Exam.
-
-# projects:
-#     title: Projects
-#     intro: >
-#       You can list your side projects in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     assignments:
-#       - title: Velocity
-#         link: "#hook"
-#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-#       - title: DevStudio
-#         link: "#"
-#         tagline: "A responsive website template designed to help web developers/designers market their services."
-
-#       - title: Tempo
-#         link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-#       - title: Atom
-#         link: "#"
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-#       - title: Delta
-#         link: "#"
-#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-# oss:
-#     title: OSS Contributions
-#     intro: >
-#       You can list your open source software contributions in this
-#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#     contributions:
-#       - title: Tempo
-#         link: "#"
-#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-#       - title: Atom
-#         link: "#"
-#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-#       - title: Delta
-#         link: "#"
-#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-# publications:
-#     title: Publications
-#     intro: |
-#       You can list your publications in this section. Lorem ipsum dolor sit
-#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#       bibendum fringilla a eu lectus.
-#     papers:
-#       - title: The Art of Computer Programming
-#         link: "#"
-#         authors: Donald E. Knuth
-#         conference: Addison-Wesley, 1968
-
-#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#         link: "#"
-#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-#       - title: A syntax directed compiler for Algol 60
-#         link: "#"
-#         authors: Edgar T. Irons
-#         conference: "Comm. ACM 4 (1961), 51–55"
-
-# skills:
-#     title: Skills &amp; Proficiency
-
-#     toolset:
-#       - name: Python & Django
-#         level: 98%
-
-#       - name: Javascript & jQuery
-#         level: 98%
-
-#       - name: Angular
-#         level: 98%
-
-#       - name: HTML5 & CSS
-#         level: 95%
-
-#       - name: Ruby on Rails
-#         level: 85%
-
-#       - name: Sketch & Photoshop
-#         level: 60%
-
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
