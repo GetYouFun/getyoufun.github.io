@@ -84,25 +84,15 @@ experiences:
         company: EPAM
         details: |
           Worked on 7 different projects.
-
-          Participated in various activities as a member of the developer team.
-
-          Estimated and prioritized tasks.
-
-          Designed MSSQL database.
-
-          Developed login and register logic with custom roles.
-
-          Developed admin panel with CRUD operations for admins.
-
-          Developed unit tests for services.
-
-          Implemented Auto-generation of models for sitecore templates.
-
-          Created SOAP client.
-
-          Provided code review.
-          
+          - Participated in various activities as a member of the developer team.
+          - Estimated and prioritized tasks.
+          - Designed MSSQL database.
+          - Developed login and register logic with custom roles.
+          - Developed admin panel with CRUD operations for admins.
+          - Developed unit tests for services.
+          - Implemented Auto-generation of models for sitecore templates.
+          - Created SOAP client.
+          - Provided code review.
 
           Tools and Technologies:
 
@@ -112,12 +102,10 @@ experiences:
         company: Krivorozhgaz
         details: |
           Create 2 internal sites:
+          - Phone book
+          - Website for managing car requests
 
-          1) Phone book
-
-          2) Website for managing car requests
-
-          Developed communication between site and Active Directory using AJAX
+          Developed communication between site and Active Directory using AJAX.
           Performed integration with Active Directory on HTTPS
       - role: Software Engineer
         time: 2018 - 2018
