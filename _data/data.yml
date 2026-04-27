@@ -3,161 +3,162 @@
 #
 
 sidebar:
-     position: right # position of the sidebar : left or right
-     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-     education: True # set to False if you want education in main section instead of in sidebar
+  position: right # position of the sidebar : left or right
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Oleksandr Korenko
-    tagline: Full Stack Developer
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  # Profile information
+  name: Oleksandr Korenko
+  tagline: Full Stack Developer
+  avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-    # Sidebar links
-    email: siteprokoresh@gmail.com
-    phone: 
-    timezone:  Ukraine/Kyiv Timezone
-    citizenship:
-    website:  #do not add http://
-    linkedin: getyoufun
-    xing: 
-    github: GetYouFun
-    telegram:
-    gitlab:
-    bitbucket:
-    twitter: 
-    stack-overflow:
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: 
+  # Sidebar links
+  email: siteprokoresh@gmail.com
+  phone:
+  timezone: Ukraine/Kyiv Timezone
+  citizenship:
+  website: #do not add http://
+  linkedin: getyoufun
+  xing:
+  github: GetYouFun
+  telegram:
+  gitlab:
+  bitbucket:
+  twitter:
+  stack-overflow:
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  pdf:
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: B1
+  languages:
+    title: Languages
+    info:
+      - idiom: English
+        level: B1
 
-        - idiom: Ukrainian
-          level: Native
+      - idiom: Ukrainian
+        level: Native
 
-        - idiom: Russian
-          level: Native
+      - idiom: Russian
+        level: Native
 
 career-profile:
-    title: Summary
-    summary: |
-      .NET Developer specializing in Sitecore CMS and Content Hub. Skilled in Sitecore content management, feature development, and bug resolution. 
-      Experienced in:
-      - Sitecore CMS
-      - Sitecore Content Hub
-      - .NET Framework, C#
-      - Entity Framework
-      - Databases: MSSQL, MongoDB
-      - OOP & SOLID Principles
-      - Unit Testing
+  title: Summary
+  summary: |
+    .NET Developer specializing in Sitecore CMS and Content Hub. Skilled in Sitecore content management, feature development, and bug resolution.
+    Experienced in:
+    - Sitecore CMS
+    - Sitecore Content Hub
+    - .NET Framework, C#
+    - Entity Framework
+    - Databases: MSSQL, MongoDB
+    - OOP & SOLID Principles
+    - Unit Testing
 
 skills:
-    title: Skills 
-    summary: |
-      .NET, ASP.NET, ASP.NET MVC, Entity Framework, Sitecore Content Editor, 
-      Sitecore Experience Editor, Sitecore Experience Manager, 
-      Sitecore Experience Platform, Sitecore Helix, Sitecore PowerShell, 
-      Sitecore Serialization, SOLID, git, WPF
+  title: Skills
+  summary: |
+    .NET, ASP.NET, ASP.NET MVC, Entity Framework, Sitecore Content Editor,
+    Sitecore Experience Editor, Sitecore Experience Manager,
+    Sitecore Experience Platform, Sitecore Helix, Sitecore PowerShell,
+    Sitecore Serialization, SOLID, git, WPF
 
 education:
-    title: Education
-    info:
-      - degree: Master deegree of Compute Engineering
-        university: Kryvij Rih National University
-        time: 2017-2018
-        details: |
-      - degree: Bachelor deegree of Compute Engineering
-        university: Kryvij Rih National University
-        time: 2013-2017
-        details: |
+  title: Education
+  info:
+    - degree: Master deegree of Compute Engineering
+      university: Kryvij Rih National University
+      time: 2017-2018
+      details: |
+    - degree: Bachelor deegree of Compute Engineering
+      university: Kryvij Rih National University
+      time: 2013-2017
+      details: |
 
 experiences:
-    title: Experiences
-    info:
-      - role: Software Engineer
-        time: 2021 - Present
-        company: EPAM
-        details: |
-          Worked on 7 different projects.
-          - Participated in various activities as a member of the developer team.
-          - Estimated and prioritized tasks.
-          - Designed MSSQL database.
-          - Developed login and register logic with custom roles.
-          - Developed admin panel with CRUD operations for admins.
-          - Developed unit tests for services.
-          - Implemented Auto-generation of models for sitecore templates.
-          - Created SOAP client.
-          - Provided code review.
+  title: Experiences
+  info:
+    - role: Software Engineer
+      time: 2021 - Present
+      company: EPAM
+      details: |
+        Worked on 7 different projects.
+        - Participated in various activities as a member of the developer team.
+        - Estimated and prioritized tasks.
+        - Designed MSSQL database.
+        - Developed login and register logic with custom roles.
+        - Developed admin panel with CRUD operations for admins.
+        - Developed unit tests for services.
+        - Implemented Auto-generation of models for sitecore templates.
+        - Created SOAP client.
+        - Provided code review.
 
-          Tools and Technologies:
+        Tools and Technologies:
 
-          Sitecore, LINQ, GraphQL, C#, ASP.NET, Visual Studio, Sitecore PowerShell, Postman, Jira, JetBrains Rider, Git, Redis, Microsoft SQL Server, ReactJS, Node.js, ASP.NET Web API, ASP.NET MVC
-      - role: System Administrator
-        time: 2019 - 2019 
-        company: Krivorozhgaz
-        details: |
-          Create 2 internal sites:
-          - Phone book
-          - Website for managing car requests
+        Sitecore, LINQ, GraphQL, C#, ASP.NET, Visual Studio, Sitecore PowerShell, Postman, Jira, JetBrains Rider, Git, Redis, Microsoft SQL Server, ReactJS, Node.js, ASP.NET Web API, ASP.NET MVC
+    - role: System Administrator
+      time: 2019 - 2019
+      company: Krivorozhgaz
+      details: |
+        Create 2 internal sites:
+        - Phone book
+        - Website for managing car requests
 
-          Developed communication between site and Active Directory using AJAX.
-          Performed integration with Active Directory on HTTPS
-      - role: Software Engineer
-        time: 2018 - 2018
-        company: PRIVATE ORGANIZATION
-        details: |
-          Worked on android program for the management and repair of washing machines with controller Arcadia and Evo.
-          Developed the application from scratch:
-          - implemented read and write of target controller;
-          - implemented check if controller have some errors recorded;
-          - implemented possibility to control every part of machine to check them one by one;
-          - implemented custom authorization & authentication;
-          - added localization for many languages (ru & en & fr & it);
-      - role: Software Engineer
-        time: 2017 - 2018
-        company: 
-        details: |
-          Worked as a freelancer on different projects.
-          Was responsible for code development and product support.
+        Developed communication between site and Active Directory using AJAX.
+        Performed integration with Active Directory on HTTPS
+    - role: Software Engineer
+      time: 2018 - 2018
+      company: PRIVATE ORGANIZATION
+      details: |
+        Worked on android program for the management and repair of washing machines with controller Arcadia and Evo.
+        Developed the application from scratch:
+        - implemented read and write of target controller;
+        - implemented check if controller have some errors recorded;
+        - implemented possibility to control every part of machine to check them one by one;
+        - implemented custom authorization & authentication;
+        - added localization for many languages (ru & en & fr & it);
+    - role: Software Engineer
+      time: 2017 - 2018
+      company:
+      details: |
+        Worked as a freelancer on different projects.
+        Was responsible for code development and product support.
 
 certifications:
-      title: Certifications
-      list:
-        - name: "Microsoft Certified: Azure Fundamentals (AZ-900)"
-          start: Apr 17, 2025
-          end: Present
-          organization: Microsoft
-          credentialid: 
-          credentialurl: https://learn.microsoft.com/en-us/users/oleksandrkorenko-9658/credentials/efdabeb8e8247f3b
-          credentialname:
-          fileurl:
-          details: |
-            Certificate is to certify successfull pass the Azure Fundamentals (AZ-900) Certification Exam.
+  title: Certifications
+  list:
+    - name: "Microsoft Certified: Azure Fundamentals (AZ-900)"
+      start: Apr 17, 2025
+      end: Present
+      organization: Microsoft
+      credentialid:
+      credentialurl: https://learn.microsoft.com/en-us/users/oleksandrkorenko-9658/credentials/efdabeb8e8247f3b
+      credentialname:
+      fileurl:
+      details: |
+        Certificate is to certify successfull pass the Azure Fundamentals (AZ-900) Certification Exam.
 
-        - name: Sitecore Content Hub Developer
-          start: Feb 7, 2024
-          end: Present
-          organization: Sitecore
-          credentialid: 
-          credentialurl:
-          credentialname:
-          fileurl: Sitecore Content Hub.pdf
-          details: |
-            Certificate is to certify successfull pass the Content Hub Developer Certification Exam.
+    - name: Sitecore Content Hub Developer
+      start: Feb 7, 2024
+      end: Present
+      organization: Sitecore
+      credentialid:
+      credentialurl:
+      credentialname:
+      fileurl: Sitecore Content Hub.pdf
+      details: |
+        Certificate is to certify successfull pass the Content Hub Developer Certification Exam.
 
-        - name: Sitecore 10 .NET Developer
-          start: June 13, 2023
-          end: Present
-          organization: Sitecore
-          credentialid: 
-          credentialurl:
-          credentialname:
-          fileurl: Sitecore.pdf
-          details: |
-            Certificate is to certify successfull pass the Sitecore 10 .NET Developer Certification Exam.
+    - name: Sitecore 10 .NET Developer
+      start: June 13, 2023
+      end: Present
+      organization: Sitecore
+      credentialid:
+      credentialurl:
+      credentialname:
+      fileurl: Sitecore.pdf
+      details: |
+        Certificate is to certify successfull pass the Sitecore 10 .NET Developer Certification Exam.
+
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
