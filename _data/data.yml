@@ -9,7 +9,7 @@ sidebar:
 
   # Profile information
   name: Oleksandr Korenko
-  tagline: Full Stack Developer
+  tagline: .NET / Sitecore Developer
   avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
@@ -45,32 +45,32 @@ sidebar:
 career-profile:
   title: Summary
   summary: |
-    .NET Developer specializing in Sitecore CMS and Content Hub. Skilled in Sitecore content management, feature development, and bug resolution.
-    Experienced in:
-    - Sitecore CMS
-    - Sitecore Content Hub
-    - .NET Framework, C#
-    - Entity Framework
-    - Databases: MSSQL, MongoDB
-    - OOP & SOLID Principles
-    - Unit Testing
+    Middle Software Engineer with strong .NET and Sitecore experience, focused on enterprise CMS platforms, integrations, feature delivery, rollout support, and production-facing improvements.
+
+    Core strengths:
+    - Sitecore platform development and support
+    - .NET backend development and integrations
+    - Feature delivery, rollout work, and production support
+    - Clean code, SOLID principles, and collaborative engineering practices
+    - Azure fundamentals, automation, and continuous learning
 
 skills:
   title: Skills
   summary: |
-    .NET, ASP.NET, ASP.NET MVC, Entity Framework, Sitecore Content Editor,
-    Sitecore Experience Editor, Sitecore Experience Manager,
-    Sitecore Experience Platform, Sitecore Helix, Sitecore PowerShell,
-    Sitecore Serialization, SOLID, git, WPF
+    - **Core:** C#, .NET, ASP.NET MVC, ASP.NET Web API, Entity Framework
+    - **Sitecore:** Sitecore CMS, XM/XP, Content Hub, Experience Editor, Content Editor, Sitecore PowerShell, Sitecore Helix, Sitecore Serialization
+    - **Data & Integration:** MSSQL, MongoDB, GraphQL, SOAP, REST APIs, Redis
+    - **Ways of Working:** SOLID, code review, debugging, rollout support, estimation and prioritization
+    - **Other:** Azure Fundamentals, Git, Postman, Jira, JetBrains Rider, Python scripting and automation
 
 education:
   title: Education
   info:
-    - degree: Master deegree of Compute Engineering
+    - degree: Master's Degree in Computer Engineering
       university: Kryvij Rih National University
       time: 2017-2018
       details: |
-    - degree: Bachelor deegree of Compute Engineering
+    - degree: Bachelor's Degree in Computer Engineering
       university: Kryvij Rih National University
       time: 2013-2017
       details: |
@@ -78,50 +78,51 @@ education:
 experiences:
   title: Experiences
   info:
-    - role: Software Engineer
-      time: 2021 - Present
+    - role: Middle Software Engineer
+      time: Oct 2021 - Mar 2026
       company: EPAM
       details: |
-        Worked on 7 different projects.
-        - Participated in various activities as a member of the developer team.
-        - Estimated and prioritized tasks.
-        - Designed MSSQL database.
-        - Developed login and register logic with custom roles.
-        - Developed admin panel with CRUD operations for admins.
-        - Developed unit tests for services.
-        - Implemented Auto-generation of models for sitecore templates.
-        - Created SOAP client.
-        - Provided code review.
+        Worked on several EPAM projects focused on Sitecore platforms, integrations, feature delivery, and rollout support for enterprise clients.
 
-        Tools and Technologies:
+        Representative work:
+        - **VUEE-ITL** (Sep 2024 - Jan 2025): supported Vue Italy feature development, rollout, and code review activities.
+        - **VUEE-MLTK** (Mar 2024 - Sep 2024): implemented and rolled out Poland territory features on an existing Sitecore 10 platform.
+        - **VUEE-CSRV** (Oct 2023 - Nov 2023): built a SOAP client and Vista parser, fixed defects, and added microservice logging for customer self-service modules.
+        - **EPMC-STC** (Jul 2023 - Oct 2023): contributed to Sitecore Competency Center work and removed GraphQL from selected components.
+        - **HOWD-SITE** (Feb 2022 - Jun 2023): delivered Sitecore web enhancements and updated Sitecore PowerShell scripts.
 
-        Sitecore, LINQ, GraphQL, C#, ASP.NET, Visual Studio, Sitecore PowerShell, Postman, Jira, JetBrains Rider, Git, Redis, Microsoft SQL Server, ReactJS, Node.js, ASP.NET Web API, ASP.NET MVC
+        Additional responsibilities:
+        - Participated in code review, estimation, prioritization, debugging, and delivery activities
+        - Built backend features and integrations for Sitecore-based solutions
+        - Supported maintenance, rollout tasks, and implementation work across projects
+
+        Tools and technologies: Sitecore, Content Hub, C#, .NET, ASP.NET MVC, ASP.NET Web API, Entity Framework, GraphQL, SOAP, Redis, Microsoft SQL Server, MongoDB, Sitecore PowerShell, Postman, Jira, JetBrains Rider, Git
     - role: System Administrator
       time: 2019 - 2019
       company: Krivorozhgaz
       details: |
-        Create 2 internal sites:
+        Created 2 internal sites:
         - Phone book
         - Website for managing car requests
 
         Developed communication between site and Active Directory using AJAX.
-        Performed integration with Active Directory on HTTPS
+        Performed integration with Active Directory over HTTPS.
     - role: Software Engineer
       time: 2018 - 2018
       company: PRIVATE ORGANIZATION
       details: |
-        Worked on android program for the management and repair of washing machines with controller Arcadia and Evo.
+        Worked on an Android application for management and repair of washing machines with Arcadia and Evo controllers.
         Developed the application from scratch:
-        - implemented read and write of target controller;
-        - implemented check if controller have some errors recorded;
-        - implemented possibility to control every part of machine to check them one by one;
-        - implemented custom authorization & authentication;
-        - added localization for many languages (ru & en & fr & it);
+        - implemented read and write operations for target controllers;
+        - implemented controller error checks;
+        - implemented manual control for machine parts to test them one by one;
+        - implemented custom authorization and authentication;
+        - added localization for multiple languages (RU, EN, FR, IT).
     - role: Software Engineer
       time: 2017 - 2018
       company:
       details: |
-        Worked as a freelancer on different projects.
+        Worked as a freelance software engineer on different projects.
         Was responsible for code development and product support.
 
 certifications:
