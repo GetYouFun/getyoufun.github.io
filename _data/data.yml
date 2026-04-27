@@ -78,6 +78,27 @@ education:
 experiences:
   title: Experiences
   info:
+    - role: Full-Stack Developer (Part-time)
+      time: Nov 2025 - Present
+      company:
+      details: |
+        Contributing part-time across several products with responsibility spanning frontend, backend, and integration workflows.
+
+        Parallel project work:
+        - Worked on the ongoing development of a B2B frontend application using Next.js and React
+        - Worked on backend services using Python and FastAPI
+        - Worked on a middleware synchronization layer using Python and FastAPI
+        - Worked on a Telegram check-in app built with Vite
+
+        Main technologies:
+        - Vite
+        - Next.js
+        - React
+        - Python
+        - FastAPI
+        - PostgreSQL 17
+        - Google Firebase
+        - Google Apps Script for Google Sheets automation
     - role: Middle Software Engineer
       time: Oct 2021 - Mar 2026
       company: EPAM
